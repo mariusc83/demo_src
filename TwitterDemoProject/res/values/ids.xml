@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="fragmentContainer" type="id"></item>
+    <item name="thumbnailContainer" type="id"/>
+    <item name="searchMenuItem" type="id"/>
+    <item name="loginMenuItem" type="id"/>
+
+</resources>

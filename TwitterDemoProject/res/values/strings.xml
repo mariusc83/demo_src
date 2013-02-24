@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TweeterDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tweeter_avatar_description">Tweeter Avatar</string>
+    <string name="search_hint">Search</string>
+    <string name="login">Login</string>
+
+</resources>
